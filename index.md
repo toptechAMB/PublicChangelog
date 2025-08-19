@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 # Historial de Cambios
 
 ## [1.1.0] - 2025-08-19
